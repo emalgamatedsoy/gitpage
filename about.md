@@ -2,7 +2,7 @@
 layout: default
 title: home
 ---
-<a href="/">Home</a> | <a href="about">About</a><br/><br/>
+<a href="index">Home</a> | <a href="about">About</a><br/><br/>
 My experience in software enigneering stems began writing C++ in community college, to engineering cloud foundry and kubernetes systems.
 I'm a quick learner and love to hear about new and up-and-coming software engineering topics.
 As a computer scientest, I have been fascinated by distributed systems, but enjoy reading about embedded systems, peer-to-peer techonolgies like blockchain,

@@ -2,7 +2,7 @@
 layout: default
 title: home
 ---
-<a href="/">Home</a> | <a href="about">About</a><br/><br/>
+<a href="index">Home</a> | <a href="about">About</a><br/><br/>
 # Welcome
 Hello everyone! Welcome to my website.
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
