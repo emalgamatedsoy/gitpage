@@ -9,7 +9,7 @@ As a computer scientest, I have been fascinated by distributed systems, but enjo
 as well as machine learning and AI.
 
 
-![me](https://pbs.twimg.com/profile_images/1444836111277305859/F56K20Pl_400x400.jpg)
+![me](https://avatars.githubusercontent.com/u/16180935?v=4)
 
 
 If you take a look around my github, there is an array of differnet techologies including 
