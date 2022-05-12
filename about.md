@@ -17,4 +17,7 @@ If you take a look around my github, there is an array of different techologies 
 *  QR scanning application written in Kotlin
 *  mysql database with dockerfile
 
-[link to github](github.com/emalgamatedsoy)
+
+<footer>
+<a href="https://github.com/emalgamatedsoy">github</a>
+</footer>
