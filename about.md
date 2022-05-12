@@ -12,7 +12,9 @@ as well as machine learning and AI.
 ![me](https://avatars.githubusercontent.com/u/16180935?v=4)
 
 
-If you take a look around my github, there is an array of differnet techologies including 
+If you take a look around my github, there is an array of different techologies including 
 *  proof of concept java messaging service
 *  QR scanning application written in Kotlin
 *  mysql database with dockerfile
+
+[link to github](github.com/emalgamatedsoy)
