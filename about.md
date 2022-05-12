@@ -15,5 +15,4 @@ as well as machine learning and AI.
 If you take a look around my github, there is an array of differnet techologies including 
 *  proof of concept java messaging service
 *  QR scanning application written in Kotlin
-*  C# winform utilities
-*  mysql sample database with dockerfile
+*  mysql database with dockerfile
