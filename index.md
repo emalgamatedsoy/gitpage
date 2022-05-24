@@ -11,7 +11,7 @@ This website is designed using github pages, with the "jekyll-theme-hacker" them
 
 
 
-I'm an avid linux user, and enjoy the entire stack for applications.
+I'm an avid linux user, and enjoy focusing on the middleware and back-end configuration for applications.
 My professional work is focused on working with cloud foundry and kubernetes techologies.
 Please check out my github here for more information and varieties of applications that I have written.
 
